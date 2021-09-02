@@ -2,11 +2,12 @@
 Material related to Statistics and Introduction to Econometrics (CCNY-CUNY).
 ### First Homework
 1.  What are the names of the people in your study group?
-    Nicholas Esposito
-    Collin Rafferty
-    Tanmay Thomas
-    Kyle Zhou
-    Kim Fai Chan
+   
+   Nicholas Esposito,
+    Collin Rafferty,
+    Tanmay Thomas,
+    Kyle Zhou,
+    Kim Fai Chan,
     Joaquin Sanchez Gomez (me)
     
 2.  *this is due before class* During class on Thursday Sept 2, we’ll do
@@ -16,7 +17,8 @@ Material related to Statistics and Introduction to Econometrics (CCNY-CUNY).
     come up. Before class, you should have done about 20 experiments
     where you roll the dice and record whether the result was a 6 or
     not.
-    _I sanded and heated one dice to have two groups, one with a normal 
+   
+   _I sanded and heated one dice to have two groups, one with a normal 
     one and the other one "adjusted". I rolled the dice 20 times together 
     and registered the results in an excel file._
     
@@ -27,6 +29,7 @@ Material related to Statistics and Introduction to Econometrics (CCNY-CUNY).
     else interesting, that you learned from the data, for example about
     educational attainments in different neighborhoods in the city. Are
     there surprises for you?
+    
     _It is the first time I used PUMS, and I found to many variables that could
     usefull to build socio-economic indicators for New York City. For example
     we can see the average income by neighborhood and matching it with
@@ -41,6 +44,7 @@ Material related to Statistics and Introduction to Econometrics (CCNY-CUNY).
     with [this
     tweet](https://twitter.com/profnoto/status/992466904475455489?lang=en),
     and read the papers referenced.)
+    
     I downloaded an SP500 series from 2018 to the most recent available data and
     calculated the average return rate for five different periods:
     2018, 2019, 2020, 2018 to most recent, and for the last week.
