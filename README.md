@@ -30,7 +30,7 @@ Material related to Statistics and Introduction to Econometrics (CCNY-CUNY).
     educational attainments in different neighborhoods in the city. Are
     there surprises for you?
     
-    _It is the first time I used PUMS, and I found to many variables that could
+    _It is the first time I used PUMS, and I found too many variables that could
     usefull to build socio-economic indicators for New York City. For example
     we can see the average income by neighborhood and matching it with
     ethnical and racial characterictics; this is the main input to draw
